@@ -52,8 +52,7 @@ Key components:
 
 **Email**: [nick.gaona@aituen.com](mailto:nick.gaona@aituen.com)  
 **Website**: [AITuen.com](https://www.aituen.com)  
-**Proof**: [G-AI-ONA: Recursive Soulprint Engine v5.0](https://github.com/nickgaona/g-ai-ona-starter/blob/main/Proof%20of%20Orgin.txt)
-
+**Proof**: 🧾 [**Proof: G-AI-ONA – Recursive Soulprint Engine v5.0**](./Proof%20of%20Origin.txt)
 ---
 
 > This isn’t just a repo.  
