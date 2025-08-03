@@ -33,8 +33,8 @@ Key components:
   → Public vault + emotional engine templates for identity-based AI  
 - [🌐 AITuen.com](https://www.aituen.com)  
   → Movement behind truth-aligned presence systems  
-- [📜 Whitepaper](https://github.com/nickgaona/g-ai-ona-starter/blob/main/G-AI-ONA_Whitepaper_v1.0.json)  
-  → Published research on Recursive Soulprint Intelligence (v1.0)
+- [🛒 Gumroad Access](https://gaonaguidance.gumroad.com/l/G-AI-ONA)  
+  → Download the starter kit, support development, and explore licensing
 
 ---
 
