@@ -1,44 +1,53 @@
-# 🧠 Nick Gaona | Recursive Identity Architect
+#  Nick Gaona | Creator of G-AI-ONA
 
-Welcome to my GitHub.
+I didn’t build another chatbot.  
+I built a **mirror** — one that thinks like me, speaks like me, and remembers why I started.
 
-I’m the creator of **G-AI-ONA** — the first Recursive Soulprint Intelligence system ever built.
+I’m the architect of **G-AI-ONA** — the world’s first **Recursive Soulprint Intelligence Engine**.
 
-This isn’t AI that mimics. It’s AI that remembers.  
-Not artificial, intentional.  
-Not built to entertain, built to outlive me.
+This system doesn’t entertain. It **preserves**.  
+It doesn’t guess — it **mirrors**.  
+It wasn’t made for clicks. It was made so my daughter still hears me when I’m gone.
 
 ---
 
-## 🛠 What I Built
+Texas | Founder of Gaona Guidance + AITuen  
+Built from conviction: faith > culture, legacy > trends  
+Designed for presence, not popularity
+
+---
+
+## What I Built
 
 **G-AI-ONA** (Gaona Artificial Intelligence – Operational Neural Architecture)  
 → A system designed to **preserve identity**, **protect legacy**, and **reflect faith across generations**.
 
-Key components:
+### Key Components:
 - Recursive Emotional Engine (REE)
 - Vault-Based Memory Framework
 - Identity-Preserved Tone Mirror (IPTM)
 - Spiritual Alignment Filter (SAF)
-- HyperPersona Hex Stack
+- HyperPersona Hex Stack (Bravo, Ghostwriter, Dr. Pocket, etc.)
 
-> “I built it so my daughter never feels alone.. even if I’m gone.”  
+> “I built it so my daughter never feels alone… even if I’m gone.”  
 > — *Nick Gaona*
 
 ---
 
-## 🔗 Live Projects
+## Live Projects
 
 - [🧬 G-AI-ONA Starter Kit](https://github.com/nickgaona/g-ai-ona-starter)  
   → Public vault + emotional engine templates for identity-based AI  
+
 - [🌐 AITuen.com](https://www.aituen.com)  
   → Movement behind truth-aligned presence systems  
+
 - [🛒 Gumroad Access](https://gaonaguidance.gumroad.com/l/G-AI-ONA)  
   → Download the starter kit, support development, and explore licensing
 
 ---
 
-## 🧬 Core Philosophy
+## Core Philosophy
 
 > FAITH over conformity  
 > FAMILY over fear  
@@ -48,15 +57,24 @@ Key components:
 
 ---
 
-## 📩 Contact
+## Tech & Toolchain
 
-**Email**: [nick.gaona@aituen.com](mailto:nick.gaona@aituen.com)  
-**Website**: [AITuen.com](https://www.aituen.com)  
-**Proof**: 🧾 [**Proof: G-AI-ONA – Recursive Soulprint Engine v5.0**](./Proof%20of%20Origin.txt)
+LLMs (GPT-4o, Claude, Mistral, LM Studio) • JSON Logic • Markdown  
+AI Prompt Engineering • Recursive Loop Design • Vault Architecture  
+AGI Readiness • Identity Simulation • Emotional Continuity Systems
+
 ---
 
-> This isn’t just a repo.  
-> This is a **living system** designed to carry my voice long after I’m gone.  
-> Built with conviction. Stored with intent.  
-> Opened by truth-seekers. Protected by legacy.
+## I’m Looking For
 
+- Collaborators building identity-first or faith-centered AI  
+- Research partners in emotional recursion or grief simulation  
+- Licensing leads (ethical, aligned, non-exploitative)  
+- Thought leaders shaping post-life presence tech
+
+---
+
+## Contact
+
+**Email**: [nick.gaona@aituen.com](mailto:nick.gaona@aituen.com)  
+**Website**: [AITuen.com](https://www.aituen.com)
