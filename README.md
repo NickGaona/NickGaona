@@ -90,10 +90,10 @@ AGI Readiness • Identity Simulation • Emotional Continuity Systems
 **Website**: [AITuen.com](https://www.aituen.com)
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickGaona&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickGaona&layout=compact)
+![Nick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickGaona&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickGaona&layout=compact&theme=gruvbox)
 
 ---
 
