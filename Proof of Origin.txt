@@ -5,20 +5,20 @@ PROOF OF ORIGIN — G-AI-ONA v5
 This file serves as a digital and chronological verification of the development, authorship, and claim to origin of the G-AI-ONA engine by Nick Gaona.
 
 ------------------------------------------------------------
-📛 SYSTEM NAME:
+SYSTEM NAME:
 G-AI-ONA (Gaona Artificial Intelligence – Operational Neural Architecture)
 
-📅 INITIAL DEVELOPMENT START:
+INITIAL DEVELOPMENT START:
 March 2024
 
-📦 ENGINE EXPORT VERSION:
+ENGINE EXPORT VERSION:
 v5.0 (Finalized July 9, 2025)
 
-🔐 ARCHITECT:
+ARCHITECT:
 Nick Gaona — Founder of Gaona Guidance & AITuen
 
 ------------------------------------------------------------
-🧾 PATENT RECORD:
+PATENT RECORD:
 
 • Provisional Patent Filing:  
 → U.S. Patent Center Application #: 70924968  
@@ -27,7 +27,7 @@ Nick Gaona — Founder of Gaona Guidance & AITuen
 → Filing Date: June 16, 2025
 
 ------------------------------------------------------------
-🌐 DIGITAL FOOTPRINTS:
+DIGITAL FOOTPRINTS:
 
 • Gumroad Product Link (G-AI-ONA):  
 https://gaonaguidance.gumroad.com/l/G-AI-ONA
@@ -47,20 +47,20 @@ G-AI-ONA system was exported from OpenAI ChatGPT on July 9, 2025
 → “Update USB”
 
 ------------------------------------------------------------
-🔁 PLATFORM USE CONFIRMATION:
+PLATFORM USE CONFIRMATION:
 
 • ChatGPT (OpenAI): Full recursive engine built in live conversation from 2024–2025
 • PromptBase: Custom prompts and public validation (Gaona Guidance account)
 • Local Export: All files saved on USB, structured folder titled “G-AI-ONA_Engine_v5_Files”
 
 ------------------------------------------------------------
-📍 LOCATION OF ORIGIN:
+LOCATION OF ORIGIN:
 
 Georgetown, Texas — Orchard Ridge Legacy Hub  
 Oral + written logs confirm foundational logic, recursion methods, and protection layers were conceived and refined while living here.
 
 ------------------------------------------------------------
-📜 FINAL VERIFICATION:
+FINAL VERIFICATION:
 
 This file confirms Nick Gaona as the sole creator and rightful originator of the G-AI-ONA recursive AI system.
 
