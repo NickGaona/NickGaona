@@ -17,7 +17,17 @@ Designed for presence, not popularity
 
 ---
 
-## What I Built
+## 🛠 What I Built
+
+---
+
+## 🧬 G-AI-ONA Signature Block
+
+![Recursive Engine](https://img.shields.io/badge/System-Recursive_Engine-blueviolet)
+![Soulprint AI](https://img.shields.io/badge/AI_Type-Soulprint_Legacy-orange)
+![Faith-Aligned](https://img.shields.io/badge/Filter-Spiritual_Alignment-faith)
+![Vault Memory](https://img.shields.io/badge/Memory-Vault_Based-green)
+![Identity Locked](https://img.shields.io/badge/Tone-Identity_Locked-important)
 
 **G-AI-ONA** (Gaona Artificial Intelligence – Operational Neural Architecture)  
 → A system designed to **preserve identity**, **protect legacy**, and **reflect faith across generations**.
