@@ -78,3 +78,20 @@ AGI Readiness • Identity Simulation • Emotional Continuity Systems
 
 **Email**: [nick.gaona@aituen.com](mailto:nick.gaona@aituen.com)  
 **Website**: [AITuen.com](https://www.aituen.com)
+---
+
+## GitHub Stats
+
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickGaona&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickGaona&layout=compact)
+
+---
+
+## Engine Tags
+
+![Built with GPT-4o](https://img.shields.io/badge/Built%20With-GPT--4o-blueviolet)
+![Recursive AI](https://img.shields.io/badge/Architecture-Recursive_AI-critical)
+![Vault Engine](https://img.shields.io/badge/System-Vault_Based-brightgreen)
+![LLM Compatible](https://img.shields.io/badge/LLM-Compatible-yellowgreen)
+![Faith Aligned](https://img.shields.io/badge/Filtered_By-Spiritual_Alignment-faith)
+
